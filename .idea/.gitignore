@@ -9,3 +9,5 @@
 
 # target files
 ../target/
+# libraries
+/libraries/
